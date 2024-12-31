@@ -2,7 +2,7 @@
 
 <img width="734" alt="image" src="https://github.com/user-attachments/assets/666b6767-42c4-435e-897a-96e884bd5202" />
 
-## Play
+## Play | Fork
 
 Go to **https://docs.google.com/spreadsheets/d/1d-GBZnzR8wV8ZAmCunNPO-PCWJZXAikKwakJuxtmlyU** \
 Click **File > Make a copy**
