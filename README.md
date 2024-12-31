@@ -2,7 +2,7 @@
 
 ## Play
 
-Go to https://docs.google.com/spreadsheets/d/1d-GBZnzR8wV8ZAmCunNPO-PCWJZXAikKwakJuxtmlyU/ \
+Go to https://docs.google.com/spreadsheets/d/1d-GBZnzR8wV8ZAmCunNPO-PCWJZXAikKwakJuxtmlyU \
 Click **File > Make a copy**
 
 ## Presentation
