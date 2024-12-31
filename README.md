@@ -9,7 +9,7 @@ Click **File > Make a copy**
 
 2024-02-04 https://x.com/VincentBounce/status/1753906987287327084
 
-![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/Za2HlAjVzag)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/Za2HlAjVzag)
 
 <iframe width="623" height="1108" src="https://www.youtube.com/embed/Za2HlAjVzag" title="Conway&#39;s Game of Life 🕹 NO CODE 👾 Just 2 Excel formulas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
