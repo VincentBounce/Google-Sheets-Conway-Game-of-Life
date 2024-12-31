@@ -11,6 +11,8 @@ Click **File > Make a copy**
 
 <img width="734" alt="image" src="https://github.com/user-attachments/assets/666b6767-42c4-435e-897a-96e884bd5202" />
 
+[<img src="https://img.youtube.com/vi/Za2HlAjVzag/maxresdefault.jpg" width="50%">](https://youtu.be/Za2HlAjVzag)
+
 [![Watch the video](https://github.com/user-attachments/assets/666b6767-42c4-435e-897a-96e884bd5202)](https://youtu.be/Za2HlAjVzag)
 
 ## Rules
