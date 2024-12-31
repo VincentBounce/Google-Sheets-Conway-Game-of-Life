@@ -1,4 +1,4 @@
-# Conway-Game-of-Life-Google-Sheets
+# Conway Game of Life Google Sheets
 
 ## Play
 
