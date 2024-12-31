@@ -1,4 +1,4 @@
-# Conway Game of Life | Google Sheets port
+# Conway's Game of Life | Google Sheets port
 
 ## Play
 
