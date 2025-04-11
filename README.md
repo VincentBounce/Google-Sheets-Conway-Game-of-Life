@@ -1,4 +1,4 @@
-# Conway's Game of Life | Google Sheets port
+# Conway's Game of Life /// Google Sheets port
 
 <img width="734" src="https://github.com/user-attachments/assets/666b6767-42c4-435e-897a-96e884bd5202" />
 
@@ -6,7 +6,7 @@
 ---
 ---
 
-# 🕹Play | Fork
+# 🕹Play /// Fork
 
 ### Go to https://docs.google.com/spreadsheets/d/1d-GBZnzR8wV8ZAmCunNPO-PCWJZXAikKwakJuxtmlyU
 
