@@ -24,9 +24,10 @@
 
 [<img src="https://img.youtube.com/vi/Za2HlAjVzag/maxresdefault.jpg" width="100%">](https://youtu.be/Za2HlAjVzag)
 
-2024-02-04 https://x.com/VincentBounce/status/1753906987287327084 | https://youtu.be/Za2HlAjVzag
+## v1 published on 2024-02-04
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first no-code video game in <a href="https://twitter.com/excel?ref_src=twsrc%5Etfw">@excel</a> <a href="https://twitter.com/googlesheets?ref_src=twsrc%5Etfw">@googlesheets</a> <a href="https://twitter.com/googledocs?ref_src=twsrc%5Etfw">@googledocs</a> | 2 formulas, no VBA, no Apps Script | Play here <a href="https://t.co/nytXX2Pax0">https://t.co/nytXX2Pax0</a> | <a href="https://twitter.com/conwaylife?ref_src=twsrc%5Etfw">@conwaylife</a> <a href="https://twitter.com/hashtag/gameoflife?src=hash&amp;ref_src=twsrc%5Etfw">#gameoflife</a> <a href="https://t.co/8ukws4fKTN">pic.twitter.com/8ukws4fKTN</a></p>&mdash; Vincent Bounce🦾🔑 (@VincentBounce) <a href="https://twitter.com/VincentBounce/status/1753906987287327084?ref_src=twsrc%5Etfw">February 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+2024-02-04 https://x.com/VincentBounce/status/1753906987287327084 \
+2024-02-13 https://youtu.be/Za2HlAjVzag
 
 ---
 ---
