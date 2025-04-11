@@ -38,11 +38,11 @@ Sign in to your Google account
 File > Make a copy
 
 Control the whole game with 2 switches:
-✅	RESET [B7] Check and uncheck to restart.
-✅	RUN [B13] Click on it, and HOLD SPACEBAR until GAME OVER message.
+- 🟨 RESET [B7] Check and uncheck to restart.
+- 🟩 RUN [B13] Click on it, and HOLD SPACEBAR until GAME OVER message.
 
 Draw your pattern instead of the automatic random one with this 3rd switch below:
-✅	SEED MODE [B85] You can copy your favorite or high-score seeds to the [Saved seeds] sheet.
+- ☑️ SEED MODE [B85] You can copy your favorite or high-score seeds to the [Saved seeds] sheet.
 	
 ## Goal
 
