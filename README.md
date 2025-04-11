@@ -1,4 +1,4 @@
-# Conway's Game of Life /// Google Sheets port
+# 👾Conway's Game of Life /// Google Sheets port
 
 ![image](https://github.com/user-attachments/assets/765cd2fe-c62e-4009-8382-aed6734158c5)
 
