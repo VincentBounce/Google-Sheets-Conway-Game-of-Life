@@ -10,7 +10,11 @@
 
 ### Go to https://docs.google.com/spreadsheets/d/1d-GBZnzR8wV8ZAmCunNPO-PCWJZXAikKwakJuxtmlyU
 
-### Click File > Make a copy
+### File > Make a copy
+
+### 2 clicks on yellow checkbox🟨
+
+### 1 click on green checkbox🟩 & hold spacebar
 
 ---
 ---
@@ -31,7 +35,7 @@
 ## Get started
 
 Sign in to your Google account
-File > Make a copy.
+File > Make a copy
 
 Control the whole game with 2 switches:
 ✅	RESET [B7] Check and uncheck to restart.
@@ -50,17 +54,17 @@ Alternative goal: obtaining the highest generations count until ALL cells DIE.
 ## Rules
 
 Each new generation of cells on the grid is calculated from the previous one with 4 basic rules:
-➊ Any live cell with fewer than 2 neighbors dies, as if by underpopulation.
-➋ Any live cell with more than 3 live neighbors dies, as if by overpopulation.
-➌ Any live cell with 2 or 3 live neighbors lives on to the next generation.
-➍ Any dead cell with exactly 3 live neighbors becomes a live cell, as if by reproduction.
+1. Any live cell with fewer than 2 neighbors dies, as if by underpopulation.
+2. Any live cell with more than 3 live neighbors dies, as if by overpopulation.
+3. Any live cell with 2 or 3 live neighbors lives on to the next generation.
+4. Any dead cell with exactly 3 live neighbors becomes a live cell, as if by reproduction.
 	
 ## Deterministic & unpredictable
 
-Deterministic: the same initial pattern always produces the same generations.
-Unpredictable: forecasting the 100th gen without computing each intermediate one is impossible.
+- Deterministic: the same initial pattern always produces the same generations.
+- Unpredictable: forecasting the 100th gen without computing each intermediate one is impossible.
 
-There are 2⁵⁷⁴ possible games, it's 10¹⁰⁰ times more than the atom quantity in the universe!
-No one can certify that the highest score has been reached.
+- There are 2⁵⁷⁴ possible games, it's 10¹⁰⁰ times more than the atom quantity in the universe!
+- No one can certify that the highest score has been reached.
 
 <img width="726" src="https://github.com/user-attachments/assets/757f3fa1-f39e-45f3-86f3-220f7d847e98" />
