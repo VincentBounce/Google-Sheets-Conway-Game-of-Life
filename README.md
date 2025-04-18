@@ -1,4 +1,4 @@
-# 👾Conway's Game of Life /// Google Sheets port
+# 👾Conway's Game of Life for Google Sheets
 
 ![image](https://github.com/user-attachments/assets/765cd2fe-c62e-4009-8382-aed6734158c5)
 
@@ -26,7 +26,7 @@
 ---
 ---
 
-# 🎞️Video showing features
+# 🎞️Introducing Conway's Game of Life for Google Sheets
 
 [<img src="https://github.com/user-attachments/assets/870dcf17-b9f4-4354-a3e2-2f575c1b41d8" width="100%">](https://youtu.be/Za2HlAjVzag)
 
