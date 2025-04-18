@@ -10,11 +10,17 @@
 
 ### Open https://docs.google.com/spreadsheets/d/1d-GBZnzR8wV8ZAmCunNPO-PCWJZXAikKwakJuxtmlyU
 
-### File > Make a copy
+- Sign in to your Google account
+- File > Make a copy
 
-### 2 clicks on yellow checkbox🟨
+## Control the whole game with 2 switches
 
-### 1 click on green checkbox🟩 & hold spacebar
+- 🟨 RESET [B7] Check and uncheck to restart
+- 🟩 RUN [B13] Click on it, and HOLD SPACEBAR until GAME OVER message
+
+## Draw your pattern instead of the automatic random one with this 3rd switch below
+
+- ☑️ SEED MODE [B85] You can copy your favorite or high-score seeds to the [Saved seeds] sheet
 
 ---
 ---
@@ -22,7 +28,7 @@
 
 # 🎞️Video showing features
 
-[<img src="https://img.youtube.com/vi/Za2HlAjVzag/maxresdefault.jpg" width="100%">](https://youtu.be/Za2HlAjVzag)
+[<img src="https://github.com/user-attachments/assets/870dcf17-b9f4-4354-a3e2-2f575c1b41d8" width="100%">](https://youtu.be/Za2HlAjVzag)
 
 ## v1 published on 2024-02-04
 
@@ -34,18 +40,6 @@
 ---
 
 # ⚖️Rules
-
-## Get started
-
-Sign in to your Google account
-File > Make a copy
-
-Control the whole game with 2 switches:
-- 🟨 RESET [B7] Check and uncheck to restart.
-- 🟩 RUN [B13] Click on it, and HOLD SPACEBAR until GAME OVER message.
-
-Draw your pattern instead of the automatic random one with this 3rd switch below:
-- ☑️ SEED MODE [B85] You can copy your favorite or high-score seeds to the [Saved seeds] sheet.
 	
 ## Goal
 
