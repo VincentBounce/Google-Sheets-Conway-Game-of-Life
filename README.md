@@ -20,7 +20,7 @@
 ---
 ---
 
-# 🎞️Presentation
+# 🎞️Video showing features
 
 [<img src="https://img.youtube.com/vi/Za2HlAjVzag/maxresdefault.jpg" width="100%">](https://youtu.be/Za2HlAjVzag)
 
@@ -71,3 +71,23 @@ Each new generation of cells on the grid is calculated from the previous one wit
 - No one can certify that the highest score has been reached.
 
 <img width="726" src="https://github.com/user-attachments/assets/757f3fa1-f39e-45f3-86f3-220f7d847e98" />
+
+---
+---
+---
+
+# 🧬Seed mode
+
+## 🎲Random seed
+
+You can select the target density of the generated population.
+Then scroll up, tick Reset 2 times and Run.
+
+![image](https://github.com/user-attachments/assets/71925905-51a0-48e2-bd37-a9d87c680315)
+
+## ✍️Custom seed
+
+You can tick every cell, so you can draw the pattern you want.
+Then scroll up, tick Reset 2 times and Run.
+
+![image](https://github.com/user-attachments/assets/587f9b0c-2e43-4509-8529-fac170e52802)
